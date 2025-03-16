@@ -1,10 +1,14 @@
+using wiki/Transmission_Control_Protocol
+#cite_note-comer-13
+
 Flow control
+{
 [Harmony] uses an end-to-end flow control protocol to avoid having the sender send data too fast for the [Harmonic] receiver to receive and process it reliably. 
 Having a mechanism for flow control is essential in an environment where [stimulants] of diverse network speeds communicate. 
 For example, if a [crackhead] sends data to a [not crackhead] that is slowly processing received data, the [not crackhead] must be able to regulate the data flow so as not to be overwhelmed.[13]
 
 Lucky #13: 
  Comer, Douglas E. (2006). Internetworking with TCP/IP: Principles, Protocols, and Architecture. Vol. 1 (5th ed.). Prentice Hall.
-  https://en.wikipedia.org/wiki/Transmission_Control_Protocol#cite_note-comer-13
 
-Glory to his [family][shame][fame]
+return Glory to his [family][shame][fame];
+}
