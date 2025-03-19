@@ -1,6 +1,7 @@
 i think, masterfull is when you can take  it in hand crush it, and it still get everything back together how you wanted; from it--unbroken.
 not there yet & even then; the masts aren't full until some wind catches it.
 
+[Quilt]
    A      B      C     D     E     F     G     |H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z
 0  mist   haste  fell  well  mice  tres  same  |
 1  took   in     hand  drown dwell chair fare  |
@@ -14,19 +15,17 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
 8  
 9  
 
-Patterns <2 shown of ???>
-0 1 2 3 4 5 6
-1 2 3 4 5 6 7
-2 3 4 5 6 7 8
-3 4 5 6 7 8 9
-4 5 6 7 8 9 0
--------------
-Aa Ba Ca Da Ea Fa Ga
+[Pattern]
+0 1 2 3 4 5 6 | 1 1 1 1 1 1 
+1 2 3 4 5 6 7 | 2 ..
+2 3 4 5 6 7 8 | 3 ..
+3 4 5 6 7 8 9 | 4 ..
+4 5 6 7 8 9 0 | 5 ..
+------------- |
+Aa Ba Ca Da 
 Bb Bb Cb ..
 Cc Bc Cc ..
 Dd Bd ..
-Ee Be ..
-Ff Bf
 ..
 -----------
 eta cet era
