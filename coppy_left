@@ -9,3 +9,18 @@
 7
 8
 9
+0 1 2 3 4 5 6
+1 2 3 4 5 6 7
+2 3 4 5 6 7 8
+3 4 5 6 7 8 9
+4 5 6 7 8 9 0
+-------------
+Aa Ba Ca Da Ea Fa Ga
+Bb Bb Cb ..
+Cc Bc Cc ..
+Dd Bd ..
+Ee Be ..
+Ff Bf
+..
+-----------
+eta cet era
