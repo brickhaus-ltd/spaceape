@@ -1,11 +1,12 @@
 Quilt <25-30%>
-   A      B      C     D     E     F     G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z
-0  mist   haste  fell  well  mice  tres  same
-1  took   in     hand  drown dwell chair fare
-2  done   crush  it    from  rung  swill offer
-3  still  pull   out   below ill   swan  lost
-4  woke   force  again just  use   loaf  cost
-5  folk   rash   past  whip  cash  quick slope
+   A      B      C     D     E     F     G     |H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z
+0  mist   haste  fell  well  mice  tres  same  |
+1  took   in     hand  drown dwell chair fare  |
+2  done   crush  it    from  rung  swill offer |
+3  still  pull   out   below ill   swan  lost  |
+4  woke   force  again just  use   loaf  cost  |
+5  folk   rash   past  whip  cash  quick slope |
+------------------------------------------------
 6  smoke  task
 7  mash 
 8  
